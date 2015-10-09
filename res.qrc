@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/12.png</file>
+        <file>image/17.png</file>
+        <file>image/23.png</file>
+        <file>image/24.png</file>
+        <file>image/Corellian_archigraphs.ico</file>
+        <file>image/DridStarFighter_archigraphs.ico</file>
+        <file>image/JediStarFighter_archigraphs.ico</file>
+        <file>image/MilleniumFalcon_archigraphs.ico</file>
+        <file>image/NabooStarFighter_archigraphs.ico</file>
+        <file>image/RepublicCruiser_archigraphs.ico</file>
+        <file>image/TieFighter_archigraphs.ico</file>
+        <file>image/YWing_archigraphs.ico</file>
+        <file>image/apic11496.jpg</file>
+    </qresource>
+</RCC>
